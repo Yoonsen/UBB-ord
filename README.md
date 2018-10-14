@@ -1,2 +1,2 @@
-# UBB-ordb-ker
+# UBB-ordbøker
 Orbøkene ved UBB
